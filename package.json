@@ -1,0 +1,20 @@
+{
+  "name": "LIRI",
+  "version": "1.0.0",
+  "description": "LIRI Bot exercise with Node, Spotify, Twitter, and OMDB API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abby-N0rmal/LIRI.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Abby-N0rmal/LIRI/issues"
+  },
+  "homepage": "https://github.com/Abby-N0rmal/LIRI#readme"
+}
